@@ -35,7 +35,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. A aplicação tem como objetivo facilitar a realização de sorteios de amigo secreto de forma rápida e prática, promovendo diversão e organização para grupos de amigos, famílias ou colegas de trabalho. 
+  Este projeto foi criado como parte da etapa final do processo seletivo do programa ONE (Oracle Next Education), em parceria com a Alura. A aplicação foi desenvolvida para tornar o sorteio de amigo secreto mais ágil e intuitivo, proporcionando uma experiência divertida e organizada para grupos de amigos, familiares ou equipes de trabalho.
 </p>
 
 ## Funcionalidades
@@ -61,14 +61,15 @@
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/barbiedeti/challenge-amigo-secreto_pt-main
+git clone https://github.com/ThiagoDeSena/challenge-amigo-secreto.git
 ```
 
 
 ## Como rodar os testes
 
 ```
-$ npm start
+ctrl + shift + p
+Liver Server: Open with Liver Server
 ```
 
 ## Casos de Uso
