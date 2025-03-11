@@ -50,6 +50,10 @@
 
 ![image](https://github.com/user-attachments/assets/bf54cdc3-3200-4240-8574-f9fb48489c38)
 
+## Link da aplicação
+
+[Site com a aplicação funcional](https://thiagodesena.github.io/challenge-amigo-secreto/)
+
 ## Pré-requisitos
 
 :warning: [Node](https://nodejs.org/en/download/)
