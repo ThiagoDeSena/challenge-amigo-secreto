@@ -44,11 +44,11 @@
 
 :heavy_check_mark: Impedir o sorteio de si mesmo
 
-## Vídeo da Aplicação :dash:
+## Imagens da Aplicação :dash:
 
+![Captura de tela 2025-03-11 120727](https://github.com/user-attachments/assets/b7eb400f-3bc2-46b1-a62b-23cda534cbf0)
 
-
-
+![image](https://github.com/user-attachments/assets/bf54cdc3-3200-4240-8574-f9fb48489c38)
 
 ## Pré-requisitos
 
