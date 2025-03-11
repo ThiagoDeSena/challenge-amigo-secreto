@@ -44,10 +44,8 @@
 
 :heavy_check_mark: Impedir o sorteio de si mesmo
 
-## Deploy da Aplicação :dash:
+## Vídeo da Aplicação :dash:
 
-
-https://github.com/user-attachments/assets/a131a1e9-44bc-4d8c-b3a4-a722c2797130
 
 
 
@@ -81,13 +79,4 @@ $ npm start
   
  • Grupos de amigos: Permite organizar o amigo secreto de forma descontraída e sem erros, mesmo com participantes morando em locais diferentes.
 
-## Desenvolvedora :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/142019936?v=4" width=115><br><sub>Kim Gomes</sub>](https://github.com/barbiedeti) |   
-| :---: |
-
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2025 - Amigo Secreto Alura
