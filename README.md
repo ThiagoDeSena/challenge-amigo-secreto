@@ -35,7 +35,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Este projeto foi desenvolvido como parte da conclusão da fase de seleção do programa ONE (Oracle Next Education) em parceria com a Alura. A aplicação tem como objetivo facilitar a realização de sorteios de amigo secreto de forma rápida e prática, promovendo diversão e organização para grupos de amigos, famílias ou colegas de trabalho. 
+  Este projeto foi criado como parte da etapa final do processo seletivo do programa ONE (Oracle Next Education), em parceria com a Alura. A aplicação foi desenvolvida para tornar o sorteio de amigo secreto mais ágil e intuitivo, proporcionando uma experiência divertida e organizada para grupos de amigos, familiares ou equipes de trabalho.
 </p>
 
 ## Funcionalidades
@@ -44,10 +44,8 @@
 
 :heavy_check_mark: Impedir o sorteio de si mesmo
 
-## Deploy da Aplicação :dash:
+## Vídeo da Aplicação :dash:
 
-
-https://github.com/user-attachments/assets/a131a1e9-44bc-4d8c-b3a4-a722c2797130
 
 
 
@@ -63,14 +61,15 @@ https://github.com/user-attachments/assets/a131a1e9-44bc-4d8c-b3a4-a722c2797130
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/barbiedeti/challenge-amigo-secreto_pt-main
+git clone https://github.com/ThiagoDeSena/challenge-amigo-secreto.git
 ```
 
 
 ## Como rodar os testes
 
 ```
-$ npm start
+ctrl + shift + p
+Liver Server: Open with Liver Server
 ```
 
 ## Casos de Uso
@@ -81,13 +80,4 @@ $ npm start
   
  • Grupos de amigos: Permite organizar o amigo secreto de forma descontraída e sem erros, mesmo com participantes morando em locais diferentes.
 
-## Desenvolvedora :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/142019936?v=4" width=115><br><sub>Kim Gomes</sub>](https://github.com/barbiedeti) |   
-| :---: |
-
-## Licença 
-
-The [MIT License]() (MIT)
-
-Copyright :copyright: 2025 - Amigo Secreto Alura
